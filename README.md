@@ -33,8 +33,8 @@ Made with nunjucks, js, express and postgresSQL
 **Install dependencies**
 
 ```npm install```  
-(express, method-override, nunjucks and pg) - dependencies
-(browser-sync, nodemon and npm-run-all) - devDependencies
+(express, method-override, nunjucks and pg) - dependencies  
+(browser-sync, nodemon and npm-run-all) - devDependencies  
 
 
 **Install and configure Database**   
@@ -48,6 +48,8 @@ Open postbird and configure conformer data and image below:**
 - port: 5432  
 - Username: postgres  
 - password: 123456  
+
+<img src=".github/01-connect.png" width="400"/>  <img src=".github/02-view-postbird.png" width="400"/> 
 
 **In SELECT DATABASE, select: CREATE DATABASE with the following data:**    
 
