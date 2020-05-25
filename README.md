@@ -1,8 +1,6 @@
-# gym-management
+# gym-management 🏋️‍
 
-# gym-management - 🏋️‍
-Made with nunjucks, express, postgress 
-
+Made with nunjucks, js, express and postgresSQL
 
 <p align="center">
   <img src=".github/page-instructor.png" width="700"/> 
@@ -20,12 +18,11 @@ Made with nunjucks, express, postgress
 
 ********************************
 
-
 # gym-management - 🏋
-
 
 [![Author](https://img.shields.io/badge/author-maiconboer-blue?style=flat-square)](https://github.com/maiconboer)
 
+********************************
 
 # :construction_worker: Installation
 
