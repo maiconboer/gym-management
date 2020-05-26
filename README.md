@@ -53,8 +53,7 @@ Open postbird and configure conformer data and image below:**
 
 **In SELECT DATABASE, select: CREATE DATABASE with the following data:**    
 
-- Database: gymmanager  
-- template1  
+- Database: gymmanager    
 - UTF8  
 
 After creating the bank, we will create 2 tables, the first for **instructors** and the second for **members**:
